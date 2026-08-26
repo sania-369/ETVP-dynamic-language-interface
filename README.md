@@ -8,4 +8,4 @@
 
 + [Математический аппарат](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_AI/ETVP_mathematical_apparatus.md) для развития.
 
-[Для связи](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/БЛАГОДАРНОСТЬ_И_СВЯЗЬ.md)          Материнские репозитории [1](https://github.com/sania-369/ETVE---Language---of---Field), [2](https://github.com/sania-369/ETVP_AI), [3](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems)
+[Для связи](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/БЛАГОДАРНОСТЬ_И_СВЯЗЬ.md)___и_________Материнские репозитории [1](https://github.com/sania-369/ETVE---Language---of---Field), [2](https://github.com/sania-369/ETVP_AI), [3](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems)
