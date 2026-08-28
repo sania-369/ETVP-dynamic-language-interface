@@ -11,7 +11,7 @@
 > \[
 > \Psi(t + dt) = \hat{U}(\Phi, Z, C_{\text{оп}}) \cdot \Psi(t)
 > \]
-> Где \(\hat{U}\) — это жесткий нелинейный фильтр. Мы не ищем форму волны; мы вычисляем **следующую итерацию**, используя результат предыдущей. Прошлое умирает в каждом такте \(dt\), становясь начальным условием для настоящего.
+> Где \(\hat{U}\) — это жесткий нелинейный фильтр. Мы не ищем форму волны; мы вычисляем **следующую итерацию**, используя результат предыдущей. Прошлое в каждом следующем такте \(dt\), становится начальным условием для настоящего.
 
 + [Математический аппарат](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_AI/ETVP_mathematical_apparatus.md) для развития.
 + [Таблетка для скептика](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_Skeptics_Antidote.md)
