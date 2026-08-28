@@ -23,4 +23,6 @@
 + [Криптография и защита данных на Хаотических Аттракторах](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_AI/криптография%20и%20защита%20данных%20на%20Хаотических%20Аттракторах.py)
 + [Симулятор для квантовых процессоров и ИИ нового поколения](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_AI/симулятор%20для%20квантовых%20процессоров%20и%20ИИ%20нового%20поколения.py)
 
+### Мы оставляем подсказки, для развития (могут быть ошибки)
+
 [Для связи](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/БЛАГОДАРНОСТЬ_И_СВЯЗЬ.md)___и_________Материнские репозитории [1](https://github.com/sania-369/ETVE---Language---of---Field), [2](https://github.com/sania-369/ETVP_AI), [3](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems)
